@@ -94,7 +94,7 @@ The portfolio includes a **"Download Resume"** button in the hero section that l
 
 ## 🔗 Live URL
 
-Deployed to GitHub Pages at: **https://rdammala.github.io/Forward-Deployed-Engineer/**
+Deployed to GitHub Pages at: **https://rdammala-org.github.io/Forward-Deployed-Engineer/**
 
 ## 🔄 Version History
 
